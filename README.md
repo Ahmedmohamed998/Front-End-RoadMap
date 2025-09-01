@@ -46,8 +46,6 @@ First, you should read about [The Front-end Developer Profession &nbsp; 📄 ](h
 
 ## Here are some resources:
 
-> skip what you already familiar with :handshake:
-
 - [The Front-end Development Tech/Spec Overview &nbsp; 📄](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/)
 - [World Wide Web (WWW) Basic Mechanics &nbsp; 📄](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
 - How does the Internet work?
