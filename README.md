@@ -5,9 +5,6 @@
 
 ---
 <div align="center">
-  <div>
-    <img src="https://badgen.net/badge/Note/%F0%9F%92%A1/orange" alt="Important Note" width="120"/>
-  </div>
 </div>
 
 ---
