@@ -82,38 +82,6 @@ First, you should read about [The Front-end Developer Profession &nbsp; 📄 ](h
 ---
 
 # Level One:
-
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr>
-        <td colspan="3"><b>🗺️ Content</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="#html"><b>1- HTML</b></a>
-        </td>
-        <td>
-          <a href="#css"><b>2- CSS</b></a>
-        </td>
-        <td>
-          <a href="#html--css---resources--practice"><b>3- HTML & CSS - (resources & practice)</b></a>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <a href="#javascript"><b>4- JavaScript</b></a>
-        </td>
-        <td>
-          <a href="#accessibility"><b>5- Accessibility</b></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 <p align="center">
   <img src="img/html-css-js-diff.jpg" alt="Difference Between HTML, CSS & JS" />
 </p>
