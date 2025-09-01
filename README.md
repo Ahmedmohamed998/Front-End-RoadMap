@@ -17,7 +17,7 @@ Front-end development includes the user interface of an application. Everything 
 
 A front-end developer is responsible for building and implementing the interface of a website or web application. They build client-side applications using web technologies such as HTML, CSS, and JavaScript.
 
-In 2021 however, front-end development has gone beyond HTML, CSS, and JavaScript. There are a lot of web technologies you need to learn to be able to excel as a front-end developer this year.
+In 2025 however, front-end development has gone beyond HTML, CSS, and JavaScript. There are a lot of web technologies you need to learn to be able to excel as a front-end developer this year.
 
 # Before you start:
 
