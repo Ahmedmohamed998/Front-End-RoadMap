@@ -6,9 +6,6 @@
 ---
 <div align="center">
 </div>
-
----
-
 # Introduction:
 
 Front-end development involves using HTML, CSS, and JavaScript to build a client-side application. The client-side of an online application is the visual part of a web application and also what a user interacts with when an application is opened: colours, fonts, buttons, navigations, animations, etc.
