@@ -7,9 +7,6 @@
 <div align="center">
   <table>
     <thead align="center">
-      <tr>
-        <td colspan="3"><b>🗺️ Content</b></td>
-      </tr>
     </thead>
     <tbody>
       <tr>
