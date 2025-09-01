@@ -4,26 +4,6 @@
 </div>
 
 ---
-
-<h1 align="center">:dart: Roadmap to boost your career</h1>
-
-This is a curated roadmap to becoming a professional Front-end Developer that anyone could use to learn about the practice of front-end development.
-
----
-
-<h3 align="center">Link icons:</h3>
-<p align="center">📖 → Official Docs &nbsp; | &nbsp; 🎬 → Video &nbsp;</p>
-<p align="center">📄 → Article &nbsp; | &nbsp; 🎬📃🎬 → Course</p>
-<p align="center">
-  <img src="https://badgen.net/badge/Recommended/PR/blue" alt="Personal Recommendation" width="100" /> → Personal Recommendation 
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ar%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeArabic playlist" width="100" /> → YT Arabic Playlist; 
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTubeEnglish Playlist" width="100" /> → English Playlist
-</p>
-
 <div align="center">
   <table>
     <thead align="center">
