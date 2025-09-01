@@ -5,46 +5,6 @@
 
 ---
 <div align="center">
-  <table>
-    <thead align="center">
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="#introduction"><b>1-Introduction</b></a>
-        </td>
-        <td>
-          <a href="#before-you-start"><b>2-Before you start</b></a>
-        </td>
-        <td>
-          <a href="#front-end-development-techspec-overview"><b>3-Front-end Development Tech/Spec Overview &nbsp; <img src="https://badgen.net/badge/Recommended/PR/blue" width="80" /></b></a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="#required-for-any-path"><b>4-Required for any path</b></a>
-        </td>
-        <td>
-          <a href="#basic-tools"><b>5-Basic tools</b></a>
-        </td>
-        <td>
-          <a href="#level-one"><b>6-Level One (HTML, CSS, JS)</b> ✨</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="#level-two"><b>7-Level Two</b> ✨</a>
-        </td>
-        <td>
-          <a href="#level-three"><b>8-Level Three</b> ✨</a>
-        </td>
-        <td>
-          <a href="#what-next"><b>9-What Next?!</b></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  
   <br />
   
   <div>
