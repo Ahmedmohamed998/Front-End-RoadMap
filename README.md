@@ -116,8 +116,6 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - [Web.dev - Learn CSS 📄](https://web.dev/learn/css/) ```recommended```
 - [Web.dev - Learn Responsive Design 📄](https://web.dev/learn/design/) ```recommended```
 
-> 💡 Take a look at this repository - [Awesome-CSS-Learning](https://github.com/FADL285/Awesome-CSS-Learning) - A tiny list limited to the best CSS Learning Resources.
-
 <br />
 
 **The basics of CSS you need to learn are:**
@@ -214,8 +212,6 @@ JavaScript is one of the most popular programming languages in the world. It is 
 - [JavaScript Tutorial for Beginners - Clever programmers 🎬](https://youtu.be/Qqx_wzMmFeA)
 - [JavaScript Tutorial for Beginners - Programming with Mosh 🎬](https://youtu.be/W6NZfCO5SIk)
 - [30 Days of JavaScript repo 📄](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-
-> 💡 Take a look at this repository - [Awesome-JavaScript-Learning](https://github.com/FADL285/Awesome-JavaScript-Learning) - A tiny list limited to the best JavaScript Learning Resources.
 
 <br />
 
