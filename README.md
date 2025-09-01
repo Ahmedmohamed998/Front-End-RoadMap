@@ -283,40 +283,6 @@ Digital accessibility, commonly abbreviated a11y, is about designing and buildin
 
 # Level Two:
 
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr>
-        <td colspan="4"><b>🗺️ Content</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="#Web-Developer-Tools"><b>1- Web Developer Tools</b></a>
-        </td>
-        <td>
-          <a href="#Package-Managers"><b>2- Package Managers</b></a>
-        </td>
-        <td>
-          <a href="#CSS-Architecture"><b>3-CSS Architecture</b></a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="#CSS-Preprocessors"><b>4-CSS Preprocessors</b></a>
-        </td>
-        <td>
-          <a href="#CSS-Frameworks"><b>5- CSS Frameworks (CSS UI Toolkits)</b></a>
-        </td>
-        <td>
-          <a href="#JavaScript-Libraries"><b>6-JavaScript Libraries</b></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 ## Web Developer Tools:
 
 **Learning Resources**:
@@ -405,38 +371,6 @@ A JavaScript library is a library of pre-written JavaScript code that allows for
 ---
 
 # Level Three:
-
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr>
-        <td colspan="3"><b>🗺️ Content</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="#Module-Bundlers"><b>1-Module Bundlers</b></a>
-        </td>
-        <td colspan="2">
-          <a href="#JavaScript-Frameworks"><b>2-JavaScript Frameworks</b></a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="#Testing"><b>3-Testing</b></a>
-        </td>
-        <td>
-          <a href="#TypeScript"><b>4-TypeScript</b></a>
-        </td>
-        <td>
-          <a href="#Progressive-Web-Apps"><b>5-Progressive Web Apps (PWA)</b></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 
 ## Module Bundlers:
 
@@ -590,29 +524,3 @@ TypeScript is a strongly typed programming language that builds on JavaScript, g
 - [Learn PWA - web.dev 📄](https://web.dev/learn/pwa/)
 - [PWA Tutorial for Beginners 🎬📃🎬](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 - [Progressive Web Apps (PWA) - The Complete Guide 🎬📃🎬  💵💵](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/)
-
----
-
-# What Next:
-
-Always Keep Learning, Practice more, and don't stop.
-
----
-
-<br />
-
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://github.com/FADL285">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/FADL285">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/FADL285">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Mohamed.Fadl.Farag@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
