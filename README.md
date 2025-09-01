@@ -1,6 +1,6 @@
 <div align="center">
   <img src="img/front-end-roadmap.gif" alt="Front-End Development" />
-  <p><strong>Roadmap to becoming a Front-End Developer.</strong></p>
+  <p><strong><h1>Roadmap to becoming a Front-End Developer.</strong></p>
 </div>
 
 ---
