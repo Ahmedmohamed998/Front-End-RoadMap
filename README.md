@@ -19,8 +19,6 @@ A front-end developer is responsible for building and implementing the interface
 
 In 2021 however, front-end development has gone beyond HTML, CSS, and JavaScript. There are a lot of web technologies you need to learn to be able to excel as a front-end developer this year.
 
-> I will endeavor to cover all you need to get started with front-end development in 2023.
-
 # Before you start:
 
 First, you should read about [The Front-end Developer Profession &nbsp; 📄 ](https://frontendmasters.com/guides/learning-roadmap/front-end-developer-profession/)
