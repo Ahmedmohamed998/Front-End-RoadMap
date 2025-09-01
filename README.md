@@ -100,8 +100,6 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
 - [HTML Full Course - Freecodecamp 🎬](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media 🎬](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
-> For writing maintainable and scalable HTML documents, check this repo [HTML Best Practices](https://github.com/hail2u/html-best-practices)
-
 ---
 
 ## CSS:
