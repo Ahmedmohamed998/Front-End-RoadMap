@@ -82,9 +82,6 @@ First, you should read about [The Front-end Developer Profession &nbsp; 📄 ](h
 ---
 
 # Level One:
-<p align="center">
-  <img src="img/html-css-js-diff.jpg" alt="Difference Between HTML, CSS & JS" />
-</p>
 
 ## HTML:
 
